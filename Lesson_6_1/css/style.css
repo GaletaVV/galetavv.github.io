@@ -1,0 +1,28 @@
+.head {
+	height: 100px;
+	width: 100%;
+	background-color: #000;
+	position: fixed;
+}
+.hiperlink 	{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-right: 2.5%;
+	height: 100px;
+}
+h1 {
+	color: white;
+	display: inline-block;
+	margin-left: 10px;
+	margin-right: 50%;
+}
+a {
+	color: white;
+	display: inline-block;
+	margin-left: 10px;
+}
+.text {
+	display: inline-block;
+	margin-top: 100px;
+}

@@ -1,0 +1,94 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	font-family: Tahoma, sans-serif;
+	line-height: 1.5;
+	color: #333333;
+}
+.section {
+	padding: 30px 10%;
+}
+.header {
+	text-align: center;
+	font-size: 24px;
+	margin-top: 80px;
+}
+.header span {
+	font-weight: 300;
+	display: block;
+}
+.header strong {
+	font-weight: 900;
+	text-transform: uppercase;
+}
+.main {
+	text-align: center;
+	margin-top: 80px;
+}
+.video, .form {
+	display: inline-block;
+	vertical-align: top;
+}
+.form {
+	margin-left: 30px;
+	text-align: center;
+	border: 5px solid #0047d6;
+	padding: 20px;
+}
+.form-heder {
+	text-align: center;
+	font-style: 20px;
+	font-weight: 900;
+	margin-bottom: 20px;
+}
+.form input {
+	display: block;
+	margin-top: 11px;
+	width: 300px;
+	padding: 17px;
+	font-size: 18px;
+	border: 1px solid #333333;
+}
+.btn {
+	font-style: 18px;
+	font-weight: 900;
+	color: #fff;
+	background-color: #0047d6;
+	border: none;
+	width: 300px;
+	height: 60px;
+	display: block;
+	margin: 11px auto;
+} 
+.feater {
+	text-align: center;
+	margin: 60px auto;
+}
+.col {
+	display: inline-block;
+	text-align: center;
+	font-style: 16px;
+	font-weight: 900;
+	margin: 10px 50px;
+}
+.feather-header {
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: 900;
+	font-style: 24px;
+	margin-top: 60px;
+}
+.client {
+	text-align: center;
+}
+.client-txt {
+	font-weight: 900;
+	font-style: 24px;
+	text-transform: uppercase;
+	margin-top: 110px;
+	margin-bottom: 60px;
+}
+.client-foto img {
+	margin: 25px 20px;
+}
