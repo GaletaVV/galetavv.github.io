@@ -11,6 +11,6 @@
 
 [Урок 7](https://galetavv.github.io/Lesson_7/index.html "My homwork lesson 7") - Верстка первого макета
 
-[Урок 8](https://galetavv.github.io/Lesson_8index.html "My homwork lesson 8") - Ускорение верстки в разы
+[Урок 8](https://galetavv.github.io/Lesson_8/index.html "My homwork lesson 8") - Ускорение верстки в разы
 
 [Урок 9](https://galetavv.github.io/Lesson_9/index.html "My homwork lesson 9") - Верстка при помощи Bootstrap
