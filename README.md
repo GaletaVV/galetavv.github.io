@@ -1,2 +1,2 @@
-# galetavv.github.io
-My first repository
+# Галета Виталий
+My homwork
