@@ -15,4 +15,4 @@
 
 [Урок 9](https://galetavv.github.io/Lesson_9/index.html "My homwork lesson 9") - Верстка при помощи Bootstrap
 
-[Урок 13](https://galetavv.github.io/Lesson_13/index.html "My homwork lesson 13") - Верстка PixelPerfect
+[Урок 13](https://galetavv.github.io/Lesson_13/scr/index.html "My homwork lesson 13") - Верстка PixelPerfect
