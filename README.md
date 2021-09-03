@@ -18,3 +18,5 @@
 [Урок 13](https://galetavv.github.io/lesson_13/scr/index.html "My homwork lesson 13") - Верстка PixelPerfect
 
 [Практическое занятие 1](https://galetavv.github.io/practic_1/index.html "My homwork practic 1") - Практическое завнятие 1
+
+[Урок 14](https://galetavv.github.io/lesson_14/index.html "My homwork lesson 14") - Подключение шрифтов
