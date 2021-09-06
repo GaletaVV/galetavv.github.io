@@ -20,3 +20,5 @@
 [Практическое занятие 1](https://galetavv.github.io/practic_1/index.html "My homwork practic 1") - Практическое завнятие 1
 
 [Урок 14](https://galetavv.github.io/lesson_14/index.html "My homwork lesson 14") - Подключение шрифтов
+
+[Урок 15](https://galetavv.github.io/lesson_15/index.html "My homwork lesson 15") - Подключение шрифтов. Верстка первого экрана.
