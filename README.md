@@ -21,6 +21,6 @@
 
 [Урок 14](https://galetavv.github.io/lesson_14/index.html "My homwork lesson 14") - Подключение шрифтов
 
-[Урок 15](https://galetavv.github.io/lesson_15/index.html "My homwork lesson 15") - Подключение шрифтов. Верстка первого экрана
+[Практическое занятие 2](https://galetavv.github.io/lesson_15/index.html "My homwork practic 2") - Подключение шрифтов. Верстка первого экрана
 
-[Урок 15.1](https://galetavv.github.io/lesson_15_1/index.html "My homwork lesson 15.1") - Псевдоклассы и псевдоэлементы
+[Урок 15](https://galetavv.github.io/lesson_15_1/index.html "My homwork lesson 15.1") - Псевдоклассы и псевдоэлементы
