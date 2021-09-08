@@ -24,3 +24,6 @@
 [Практическое занятие 2](https://galetavv.github.io/lesson_15/index.html "My homwork practic 2") - Подключение шрифтов. Верстка первого экрана
 
 [Урок 15](https://galetavv.github.io/lesson_15_1/index.html "My homwork lesson 15.1") - Псевдоклассы и псевдоэлементы
+
+[Практическое занятие 1](https://galetavv.github.io/practic_3/index.html "My homwork practic 3") - Эффекты при наведении и адаптив первого экрана
+3
