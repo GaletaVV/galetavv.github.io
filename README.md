@@ -25,6 +25,8 @@
 
 [Урок 15](https://galetavv.github.io/lesson_15_1/index.html "My homwork lesson 15.1") - Псевдоклассы и псевдоэлементы
 
-[Практическое занятие 1](https://galetavv.github.io/practic_3/index.html "My homwork practic 3") - Эффекты при наведении и адаптив первого экрана
+[Практическое занятие 3](https://galetavv.github.io/practic_3/index.html "My homwork practic 3") - Эффекты при наведении и адаптив первого экрана
 
 [Урок 16](https://galetavv.github.io/lesson_16/index.html "My homwork lesson 16") - Слайдер на сайте
+
+[Практическое занятие 4](https://galetavv.github.io/practic_4/index.html "My homwork practic 4") - Верстка блока с преимуществами. Слайдер.
