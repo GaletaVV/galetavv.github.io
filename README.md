@@ -32,3 +32,5 @@
 [Практическое занятие 4](https://galetavv.github.io/practic_4/index.html "My homwork practic 4") - Верстка блока с преимуществами. Слайдер.
 
 [Урок 17](https://galetavv.github.io/lesson_17/index.html "My homwork lesson 17") - Всплывающие окна
+
+[Практическое занятие 5](https://galetavv.github.io/practic_5/index.html "My homwork practic 5") - Верстка всплывающих окон на сайте/
