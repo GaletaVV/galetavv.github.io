@@ -1,32 +1,11 @@
 body {
   text-align: center;
+  font-family: 'Roboto', sans-serif;
 }
 
-.btn-header{
-  margin-top: 200px;
-}
-
-.modal-title {
-  font-family: 'arial' sans-serif;
-  font-size: 18px;
-  color: #4F849E;
-}
-
-.modal-header {
-  background-color: #F4F7F9;
-}
-
-.modal-body {
-  background-color: #F8F8F8;
-  color: #6A6A6A;
-}
-
-.modal-body p {
-  font-family: 'verdana' sans-serif;
-margin: 0;
-}
-
-.modal-footer {
-  background-color: #F3F6F8;
-  justify-content: center;
+a {
+  margin: 50px;
+  border: 2px solid rgb(10, 10, 10);
+  padding: 2px;
+  text-decoration: none;
 }
