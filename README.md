@@ -33,4 +33,6 @@
 
 [Урок 17](https://galetavv.github.io/lesson_17/index.html "My homwork lesson 17") - Всплывающие окна
 
-[Практическое занятие 5](https://galetavv.github.io/practic_5/index.html "My homwork practic 5") - Верстка всплывающих окон на сайте/
+[Практическое занятие 5](https://galetavv.github.io/practic_5/index.html "My homwork practic 5") - Верстка всплывающих окон на сайте
+
+[Урок 18](https://galetavv.github.io/lesson_18/index.html "My homwork lesson 18") - Табы и аккордеон на сайте
