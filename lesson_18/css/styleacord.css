@@ -1,0 +1,70 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.container {
+  height: auto;
+  background: url(../img/Borderacprd.png) no-repeat;
+  background-size: cover;
+  padding-bottom: 136px;
+}
+
+h1,h2 {
+  text-align: center;
+  text-transform: uppercase;
+  color: #0BBAF0;
+}
+h1 {
+  font-size: 36px;
+  margin-bottom: 18px;
+}
+h2 {
+  font-size: 24px;
+  margin-top: 0px;
+  margin-bottom: 48px;
+}
+
+
+.horizontal-click [name="vkl"] { display: none; }
+.horizontal-click > :not(input):not(label) {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  overflow: hidden;
+  width: 861px;
+  height: 0;
+  margin: 0;
+  padding: 0 .5em;
+  background-color: #FFFFFF;
+  border: 1px solid #DCDCDC;
+  border-top-style: none;
+  transition: .5s;
+  border-radius: 0 0 10px 10px;
+  box-sizing: border-box;
+  font-size: 22px;
+}
+.horizontal-click > label {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 861px;
+  text-align: center;
+  overflow: hidden;
+  display: block;
+  padding: .5em 1em;
+  background: #0BBAF0;
+  color: #FFFFFF;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  cursor: pointer;
+  box-sizing: border-box;
+  font-size: 23px;
+}
+.horizontal-click > :checked + label + * {
+  overflow: auto;
+  height: auto;
+}
+.horizontal-click > :checked + label {
+  background: #0BBAF0;
+  cursor: default;
+}
