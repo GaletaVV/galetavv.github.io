@@ -36,3 +36,5 @@
 [Практическое занятие 5](https://galetavv.github.io/practic_5/index.html "My homwork practic 5") - Верстка всплывающих окон на сайте
 
 [Урок 18](https://galetavv.github.io/lesson_18/index.html "My homwork lesson 18") - Табы и аккордеон на сайте
+
+[Практическое занятие 6](https://galetavv.github.io/practic_6/index.html "My homwork practic 6") - Верстка блока с ценами
