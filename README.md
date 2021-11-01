@@ -39,4 +39,4 @@
 
 [Практическое занятие 6](https://galetavv.github.io/practic_6/index.html "My homwork practic 6") - Верстка блока с ценами
 
-[Урок 19](https://galetavv.github.io/lesson_19/index.html "My homwork lesson 19") - Анимация на CSS3
+[Урок 19](https://galetavv.github.io/Lesson_19/index.html "My homwork lesson 19") - Анимация на CSS3
