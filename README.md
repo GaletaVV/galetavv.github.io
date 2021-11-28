@@ -33,14 +33,16 @@
 
 [Урок 17](https://galetavv.github.io/lesson_17/index.html "My homwork lesson 17") - Всплывающие окна
 
-[Практическое занятие 5](https://galetavv.github.io/practic_5/index.html "My homwork practic 5") - Верстка всплывающих окон на сайте
+[Практическое занятие 5](https://galetavv.github.io/practic_5/index.html "My homwork practical 5") - Верстка всплывающих окон на сайте
 
 [Урок 18](https://galetavv.github.io/lesson_18/index.html "My homwork lesson 18") - Табы и аккордеон на сайте
 
-[Практическое занятие 6](https://galetavv.github.io/practic_6/index.html "My homwork practic 6") - Верстка блока с ценами
+[Практическое занятие 6](https://galetavv.github.io/practic_6/index.html "My homwork practical 6") - Верстка блока с ценами
 
 [Урок 19](https://galetavv.github.io/Lesson_19/index.html "My homwork lesson 19") - Анимация на CSS3
 
-[Практическое занятие 7](https://galetavv.github.io/practic_7/index.html "My homwork practic 7") - Верстка блока с отзывами
+[Практическое занятие 7](https://galetavv.github.io/practic_7/index.html "My homwork practialc 7") - Верстка блока с отзывами
 
 [Урок 20](https://galetavv.github.io/Lesson_20/index.html "My homwork lesson 20") - Видео-фон на сайте
+
+[Практическое занятие 8](https://galetavv.github.io/practic_8/index.html "My homwork practical 8") - Доверстали блок с отзывами
