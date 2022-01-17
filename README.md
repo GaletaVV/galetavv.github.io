@@ -46,3 +46,5 @@
 [Урок 20](https://galetavv.github.io/Lesson_20/index.html "My homwork lesson 20") - Видео-фон на сайте
 
 [Практическое занятие 8](https://galetavv.github.io/practic_8/index.html "My homwork practical 8") - Доверстали блок с отзывами
+
+[Урок 21](https://galetavv.github.io/Lesson_21/index.html "My homwork lesson 21") - Parallax эффект для сайта.
