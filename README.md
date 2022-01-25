@@ -50,3 +50,5 @@
 [Урок 21](https://galetavv.github.io/Lesson_21/index.html "My homwork lesson 21") - Parallax эффект для сайта.
 
 [Практическое занятие 9](https://galetavv.github.io/practic_9/index.html "My homwork practical 9") - Верстаем схему работы и все включено
+
+[Урок 22](https://galetavv.github.io/Lesson_22/index.html "My homwork lesson 22") - Гео-карты для сайта.
