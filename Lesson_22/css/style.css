@@ -1,0 +1,47 @@
+body {
+  font-family: 'Open Sans', sans-serif;;
+}
+
+.contacts {
+  position: absolute;
+  height: 430px;
+  width: 380px;
+  background-color: #c60b0b;
+  text-align: center;
+  color: #fff;
+  top: 0;
+}
+
+.contacts p {
+  font-size: 18px;
+  margin-top: 30px;
+
+}
+
+h2 {
+  font-size: 30px;
+  margin-top: 60px;
+}
+
+.footer {
+  margin-top: 15px;
+}
+
+h3 {
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.logo {
+  font-size: 16px;
+}
+
+.info {
+  font-size: 14px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.footer p {
+  font-size: 14px;
+}
